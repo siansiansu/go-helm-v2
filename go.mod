@@ -1,4 +1,4 @@
-module github.com/siansiansu/go-helm
+module github.com/siansiansu/go-helm-v2
 
 go 1.17
 
